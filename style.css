@@ -1,0 +1,29 @@
+#wrapper{
+    justify-content: center;
+    align-content: center;
+    color:red;
+    text-align: center;
+}
+
+#chat{
+    width: 100%;
+    font-size: 20px;
+}
+
+.name{
+    color:purple;
+    font-weight: bold; 
+    padding: 0;
+    background-color:white;
+}
+
+.message{
+    margin-left:20px;
+    color:red;
+}
+
+em{
+    margin:0;
+    padding: 0;
+    color:black;
+}
